@@ -1,0 +1,19 @@
+ public static void main(String[] args) {
+        
+        
+        
+computer hp =new computer (1500,"black","hp",2005);
+      
+        hp.setprice(1700);
+        System.out.println(hp.getprice());
+        
+        System.out.println(hp.getColor() +  "  "+hp.getType());
+ 
+laptop lenovo =new laptop (1000,"belt-in","lenovo",2015);
+      
+        System.out.println(lenovo.getprice());
+        
+        System.out.println(lenovo.getColor() +  "  "+lenovo.getType());
+ 
+
+    }}
