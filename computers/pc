@@ -1,0 +1,10 @@
+public class pc extends computer {
+
+    public pc(int p, String c, String t, int pd) {
+        super(p, c, t, pd);
+    }
+    
+    
+    }
+
+    
