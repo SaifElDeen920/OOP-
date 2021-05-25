@@ -1,0 +1,12 @@
+public class minilaptop extends laptop {
+     int size;
+
+    public minilaptop(int s, String c, String t, int pd) {
+        super(s, c, t, pd);
+    }
+    
+   
+
+    
+    }
+
